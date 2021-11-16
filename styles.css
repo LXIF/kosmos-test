@@ -1,0 +1,19 @@
+.fill-page {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    background-color: red;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.hide-mouse {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    position: absolute;
+    top: 30vh;
+    left: 30vw;
+    cursor: none;
+}
